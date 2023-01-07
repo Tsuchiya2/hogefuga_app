@@ -41,7 +41,7 @@ gem 'ransack'
 
 gem 'meta-tags'
 
-# gem 'rails_admin'
+gem 'rails_admin'
 gem 'cancancan'
 
 gem 'carrierwave'
